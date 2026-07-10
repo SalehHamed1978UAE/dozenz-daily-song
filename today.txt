@@ -1,0 +1,40 @@
+SONG TO CREATE IN SUNO  (Custom mode)
+============================================================
+TITLE:
+Ten and Two
+
+STYLE OF MUSIC  (paste into the "Styles" field):
+male vocalist, minimal piano slowcore, post-rock textures, intimate indie folk, sparse arrangement, emotional architecture, male lead vocal
+
+LYRICS  (paste into the "Lyrics" field):
+[Verse1]
+streetlight through the windshield
+hands still at ten and two
+the click of the belt, the key still warm
+the radio off but the dash still blue
+
+[Chorus]
+the engine's off but I'm not home yet
+the engine's off but I'm not home yet
+
+[Verse2]
+shoes by the door like someone lives here
+water from the tap I didn't drink
+your coat's not on the hook but the hook's still there
+the faucet drips — I let it
+
+[Bridge]
+you said it standing up, like it was easy
+you said it standing up
+
+[Outro]
+the engine's off but I'm not home yet
+the engine's off but I'm not home yet
+the engine's off
+
+SETTINGS:
+- Custom mode: ON
+- Instrumental: OFF   (this song HAS vocals)
+- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- Model: newest available
+============================================================
