@@ -1,36 +1,34 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Ten and Two
+The Whole Thing
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, minimal piano slowcore, post-rock textures, intimate indie folk, sparse arrangement, emotional architecture, male lead vocal
+male vocalist, minimal piano ballad, sparse intimate indie folk, room recording aesthetic, not polished production, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-streetlight through the windshield
-hands still at ten and two
-the click of the belt, the key still warm
-the radio off but the dash still blue
+The chair creaks, the clock, your breath
+Nothing's started but something left
+The lid stays down, the strings stay cold
+The room just waits — it's not that old
 
 [Chorus]
-the engine's off but I'm not home yet
-the engine's off but I'm not home yet
+Is this the start or is this the whole thing
+Is this the start or is this the whole thing
 
 [Verse2]
-shoes by the door like someone lives here
-water from the tap I didn't drink
-your coat's not on the hook but the hook's still there
-the faucet drips — I let it
+I stood outside and watched the door
+Counted the steps across the floor
+Had something once — a word, a line
+It was right here, then it wasn't mine
 
 [Bridge]
-you said it standing up, like it was easy
-you said it standing up
+I brought my hands but I forgot what they're for
+I brought my hands but I forgot what they're for
 
 [Outro]
-the engine's off but I'm not home yet
-the engine's off but I'm not home yet
-the engine's off
+Is this the start
 
 SETTINGS:
 - Custom mode: ON
