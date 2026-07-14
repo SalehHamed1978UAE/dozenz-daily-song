@@ -1,34 +1,41 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-The Whole Thing
+Still On
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, minimal piano ballad, sparse intimate indie folk, room recording aesthetic, not polished production, male lead vocal
+male vocalist, sparse indie folk, intimate alternative, minimalist chamber pop, Adrianne Lenker-style restraint, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-The chair creaks, the clock, your breath
-Nothing's started but something left
-The lid stays down, the strings stay cold
-The room just waits — it's not that old
+The lights are still on in the kitchen
+There's still a glass beside the sink
+The faucet hums its one-note sermon
+The dishcloth's folded where you left it
 
 [Chorus]
-Is this the start or is this the whole thing
-Is this the start or is this the whole thing
+Everything's still on
+Everything's still on
+The house remembers what my hands forgot
+Everything's still on
 
 [Verse2]
-I stood outside and watched the door
-Counted the steps across the floor
-Had something once — a word, a line
-It was right here, then it wasn't mine
+There's a chair pulled out from the table
+Your jacket on the back like you just stepped out
+The fridge clicks on like it's expecting
+Someone to answer — I don't know how
 
 [Bridge]
-I brought my hands but I forgot what they're for
-I brought my hands but I forgot what they're for
+I could reach across and turn it off
+I could pull the plug and let it go dark
+But the hum is the closest thing to your voice
+And I'm not ready for the quiet part
 
-[Outro]
-Is this the start
+[Verse3]
+The hallway light cuts through the bedroom
+The clock still reads the time you set
+I keep the station where you left it
+The radio's still playing to the wall
 
 SETTINGS:
 - Custom mode: ON
