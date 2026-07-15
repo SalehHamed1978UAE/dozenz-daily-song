@@ -1,41 +1,45 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Still On
+Bare Feet
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, sparse indie folk, intimate alternative, minimalist chamber pop, Adrianne Lenker-style restraint, male lead vocal
+male vocalist, minimal indie pop-rock, post-punk economy, emotional directness — The War on Drugs' restraint meets Bleachers' intimacy, stripped to skeleton, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-The lights are still on in the kitchen
-There's still a glass beside the sink
-The faucet hums its one-note sermon
-The dishcloth's folded where you left it
+Cold tile, bare feet, three AM
+I'm already in the hallway
+Don't remember standing up
+Kitchen light still on behind me
+Mug still warm on the counter
+Body left before my mouth did
 
 [Chorus]
-Everything's still on
-Everything's still on
-The house remembers what my hands forgot
-Everything's still on
+I'm not ready but I'm moving
+I'm not ready but I'm out the door
+I'm not ready but I'm moving
+I'm not ready but I'm out the door
 
 [Verse2]
-There's a chair pulled out from the table
-Your jacket on the back like you just stepped out
-The fridge clicks on like it's expecting
-Someone to answer — I don't know how
+Streetlight catches every third step
+Shadow longer than the person
+Didn't grab a jacket, don't go back
+Pavement cold through cotton socks
+No direction, just away
+Every corner looks like somewhere I haven't ruined yet
 
 [Bridge]
-I could reach across and turn it off
-I could pull the plug and let it go dark
-But the hum is the closest thing to your voice
-And I'm not ready for the quiet part
+Didn't pick this street
+Didn't pick this door
+Standing somewhere I've never been
+And my legs aren't sorry
 
-[Verse3]
-The hallway light cuts through the bedroom
-The clock still reads the time you set
-I keep the station where you left it
-The radio's still playing to the wall
+[Final Chorus]
+I'm not ready but I'm moving
+I'm not ready but I'm out the door
+I'm not ready but I'm moving
+I'm not ready but I'm gone
 
 SETTINGS:
 - Custom mode: ON
