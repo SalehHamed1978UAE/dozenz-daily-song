@@ -1,49 +1,42 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Bare Feet
+Eleven PM
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, minimal indie pop-rock, post-punk economy, emotional directness — The War on Drugs' restraint meets Bleachers' intimacy, stripped to skeleton, male lead vocal
+female vocalist, minimal indie folk-pop, intimate, sparse, conversational vocal delivery, Soko meets early Frankie Cosmos meets emptiest Phoebe Bridgers, female lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Cold tile, bare feet, three AM
-I'm already in the hallway
-Don't remember standing up
-Kitchen light still on behind me
-Mug still warm on the counter
-Body left before my mouth did
+Eleven PM, squeezing a mango like someone taught me how
+Cart with one wheel that pulls left
+Reading the back of a cereal box like it's literature
+The freezer aisle hums in a key I almost recognize
 
 [Chorus]
-I'm not ready but I'm moving
-I'm not ready but I'm out the door
-I'm not ready but I'm moving
-I'm not ready but I'm out the door
+I'm just getting what I need
+I'm just getting what I need
+I'm just getting what I need
 
 [Verse2]
-Streetlight catches every third step
-Shadow longer than the person
-Didn't grab a jacket, don't go back
-Pavement cold through cotton socks
-No direction, just away
-Every corner looks like somewhere I haven't ruined yet
+Self-checkout voice says "unexpected item" and she's right
+Bag of spinach I'll throw out on Wednesday
+Someone left a basket in the middle of aisle six
+Standing in front of the eggs like it's a decision
 
 [Bridge]
-Didn't pick this street
-Didn't pick this door
-Standing somewhere I've never been
-And my legs aren't sorry
+The receipt says twelve items but I don't remember choosing any of them
+The parking lot light makes the car look like it's waiting too
 
-[Final Chorus]
-I'm not ready but I'm moving
-I'm not ready but I'm out the door
-I'm not ready but I'm moving
-I'm not ready but I'm gone
+[Outro]
+I'm just getting what I need
+I'm just getting what I need
+
+...I'm just getting what I need
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
