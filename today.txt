@@ -1,42 +1,49 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Eleven PM
+I'm Up
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-female vocalist, minimal indie folk-pop, intimate, sparse, conversational vocal delivery, Soko meets early Frankie Cosmos meets emptiest Phoebe Bridgers, female lead vocal
+male vocalist, indie rock, alternative, raw and honest, anthemic but understated, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Eleven PM, squeezing a mango like someone taught me how
-Cart with one wheel that pulls left
-Reading the back of a cereal box like it's literature
-The freezer aisle hums in a key I almost recognize
+Feet on cold tile, one eye open
+Coffee's already on — someone planned this
+Keys in yesterday's jacket
+Phone face-down where I left it
 
 [Chorus]
-I'm just getting what I need
-I'm just getting what I need
-I'm just getting what I need
+Okay — alright
+I'm not there yet but I'm up
+Okay — alright
+Don't mean it yet but I'm moving
+I'm up, I'm up, I'm up
 
 [Verse2]
-Self-checkout voice says "unexpected item" and she's right
-Bag of spinach I'll throw out on Wednesday
-Someone left a basket in the middle of aisle six
-Standing in front of the eggs like it's a decision
+Same shirt, same door, same street
+The sun doesn't care if I'm ready
+Walked past the mirror — didn't stop
+There's nothing in there I need right now
 
 [Bridge]
-The receipt says twelve items but I don't remember choosing any of them
-The parking lot light makes the car look like it's waiting too
+One more — one more — one more
+That's what I said yesterday
+and the day before
+and I'm still here
+so maybe "one more" is enough
+maybe "one more" is the whole thing
 
-[Outro]
-I'm just getting what I need
-I'm just getting what I need
-
-...I'm just getting what I need
+[Final Chorus]
+Okay — alright
+I'm not there yet but I'm here
+Okay — alright
+Don't believe it yet but I'm saying it
+I'm up — I'm up — I'm up
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
