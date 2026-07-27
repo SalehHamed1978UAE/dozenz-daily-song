@@ -1,45 +1,38 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-I'm Up
+Good
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, indie rock, alternative, raw and honest, anthemic but understated, male lead vocal
+male vocalist, post-punk indie rock, dry and aggressive, controlled intensity, minimal production, raw energy, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Feet on cold tile, one eye open
-Coffee's already on — someone planned this
-Keys in yesterday's jacket
-Phone face-down where I left it
+Sidewalk cracks under my shoes
+(beat — instrumental gap)
+Phone buzzing in my coat
+I know the name before I look
 
 [Chorus]
-Okay — alright
-I'm not there yet but I'm up
-Okay — alright
-Don't mean it yet but I'm moving
-I'm up, I'm up, I'm up
+I don't owe you the answer
+I don't owe you the answer
 
 [Verse2]
-Same shirt, same door, same street
-The sun doesn't care if I'm ready
-Walked past the mirror — didn't stop
-There's nothing in there I need right now
+Every corner looks the same
+Good
+Phone buzzing in my coat
+I know the name before I look
 
 [Bridge]
-One more — one more — one more
-That's what I said yesterday
-and the day before
-and I'm still here
-so maybe "one more" is enough
-maybe "one more" is the whole thing
+I didn't plan this
+I just didn't stop
 
-[Final Chorus]
-Okay — alright
-I'm not there yet but I'm here
-Okay — alright
-Don't believe it yet but I'm saying it
-I'm up — I'm up — I'm up
+(two beats — silence, guitar hum only)
+
+[Outro]
+I don't owe you the answer
+I don't owe you the answer
+And I never did
 
 SETTINGS:
 - Custom mode: ON
