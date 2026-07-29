@@ -1,42 +1,39 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Good
+I Should Go Inside
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, post-punk indie rock, dry and aggressive, controlled intensity, minimal production, raw energy, male lead vocal
+female vocalist, minimal slowcore, stripped indie folk, sparse and intimate, not ambient, raw and bare, female lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Sidewalk cracks under my shoes
-(beat — instrumental gap)
-Phone buzzing in my coat
-I know the name before I look
+Keys still in my hand but the engine's been off
+Streetlight makes a square on the dashboard
+I should go inside
+I should go inside
 
 [Chorus]
-I don't owe you the answer
-I don't owe you the answer
+I'm still here
+I'm still here
 
 [Verse2]
-Every corner looks the same
-Good
-Phone buzzing in my coat
-I know the name before I look
+Gravel sounds different when nobody's waiting
+It's not far from the car to the door
+I count every step
+I count every step
 
-[Bridge]
-I didn't plan this
-I just didn't stop
+[Chorus2]
+I'm still here
+I'm still here?
 
-(two beats — silence, guitar hum only)
-
-[Outro]
-I don't owe you the answer
-I don't owe you the answer
-And I never did
+[Final Chorus]
+I'm still here
+I'm still here
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
