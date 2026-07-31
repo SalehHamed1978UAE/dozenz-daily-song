@@ -1,39 +1,33 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-I Should Go Inside
+Still Here
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-female vocalist, minimal slowcore, stripped indie folk, sparse and intimate, not ambient, raw and bare, female lead vocal
+male vocalist, stripped indie folk with post-rock restraint, intimate, honest, raw - think Bon Iver's 'Skinny Love' meets The National's 'About Today', male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Keys still in my hand but the engine's been off
-Streetlight makes a square on the dashboard
-I should go inside
-I should go inside
+I taught you how to hold the pen
+Now you hold it better than I do
 
 [Chorus]
 I'm still here
-I'm still here
 
 [Verse2]
-Gravel sounds different when nobody's waiting
-It's not far from the car to the door
-I count every step
-I count every step
+Calluses on my fingertips
+From years of doing this
+The keys don't care who's pressing them
 
-[Chorus2]
-I'm still here
-I'm still here?
+[Bridge]
+I brought my hands but I forgot what they're for
 
-[Final Chorus]
-I'm still here
+[Outro]
 I'm still here
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
