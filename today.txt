@@ -1,29 +1,39 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Still Here
+Who's Here
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, stripped indie folk with post-rock restraint, intimate, honest, raw - think Bon Iver's 'Skinny Love' meets The National's 'About Today', male lead vocal
+male vocalist, minimal indie folk, intimate, domestic, almost ASMR-close, stripped acoustic, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-I taught you how to hold the pen
-Now you hold it better than I do
+I'm not playing but my hands are on the keys
+The chair creaks when I shift my weight
+Clock on the wall, I don't check it
+Pedal down
 
 [Chorus]
-I'm still here
+Who's here when I'm not trying
 
 [Verse2]
-Calluses on my fingertips
-From years of doing this
-The keys don't care who's pressing them
+Water running, hands under, not washing anything
+Steam on the window I don't wipe
+Mug on the counter from this morning
+Still half full
 
 [Bridge]
-I brought my hands but I forgot what they're for
+I closed the lid
+
+[Verse3]
+Draft under the door
+Jacket on the hook from this morning
+Streetlight through the glass, I don't step forward
+Shoes by the wall, laces still tied
 
 [Outro]
-I'm still here
+Who's here when I'm not trying
+Who's here when I'm not trying
 
 SETTINGS:
 - Custom mode: ON
