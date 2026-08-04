@@ -1,39 +1,37 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Who's Here
+It's The While
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, minimal indie folk, intimate, domestic, almost ASMR-close, stripped acoustic, male lead vocal
+male vocalist, bare acoustic bedroom recording, confessional singer-songwriter, one-take intimacy, anti-folk, lo-fi authenticity, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-I'm not playing but my hands are on the keys
-The chair creaks when I shift my weight
-Clock on the wall, I don't check it
-Pedal down
+your jacket's still on the chair
+three days, haven't touched it
+keys on the counter where you left them
+I keep walking past
 
 [Chorus]
-Who's here when I'm not trying
+it's the while
+it's the while
+it's the while
+it's the while
 
 [Verse2]
-Water running, hands under, not washing anything
-Steam on the window I don't wipe
-Mug on the counter from this morning
-Still half full
+morning light hits it different
+looks like someone else's now
+or maybe I do
+I stopped counting days
 
 [Bridge]
-I closed the lid
-
-[Verse3]
-Draft under the door
-Jacket on the hook from this morning
-Streetlight through the glass, I don't step forward
-Shoes by the wall, laces still tied
+hand on the sleeve
+door already open
+feet on the pavement
 
 [Outro]
-Who's here when I'm not trying
-Who's here when I'm not trying
+it's the while
 
 SETTINGS:
 - Custom mode: ON
