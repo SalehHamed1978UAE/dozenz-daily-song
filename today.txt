@@ -1,41 +1,39 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-It's The While
+In The Dark
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, bare acoustic bedroom recording, confessional singer-songwriter, one-take intimacy, anti-folk, lo-fi authenticity, male lead vocal
+female vocalist, sparse indie rock, post-punk restraint, intimate alternative, stripped-down emotional, female lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-your jacket's still on the chair
-three days, haven't touched it
-keys on the counter where you left them
-I keep walking past
+Strings buzzing under my fingers
+Amp's not even on
+The neighbors stopped complaining
+I must not be that loud
 
 [Chorus]
-it's the while
-it's the while
-it's the while
-it's the while
+I'm not going anywhere
+I'm not going anywhere
+I'm not going anywhere
+I'll play in the dark
 
 [Verse2]
-morning light hits it different
-looks like someone else's now
-or maybe I do
-I stopped counting days
+Calluses on my fingertips
+From songs nobody asked for
+The ceiling's low enough to touch
+I've been small before
 
 [Bridge]
-hand on the sleeve
-door already open
-feet on the pavement
-
-[Outro]
-it's the while
+My fingers keep going
+After the sound stops
+I can't tell if I'm playing
+Or just holding on
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
