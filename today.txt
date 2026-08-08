@@ -1,39 +1,38 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-In The Dark
+Not This Time
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-female vocalist, sparse indie rock, post-punk restraint, intimate alternative, stripped-down emotional, female lead vocal
+male vocalist, minimal indie rock, post-punk economy, rhythmic precision, restrained but warm, not angular—tight because the emotion is tight, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Strings buzzing under my fingers
-Amp's not even on
-The neighbors stopped complaining
-I must not be that loud
+phone face-down on the table
+chair pushed back, I'm already standing
+you're still talking but I'm watching the door
+not the words — just the distance to it
 
 [Chorus]
-I'm not going anywhere
-I'm not going anywhere
-I'm not going anywhere
-I'll play in the dark
+not this time
 
 [Verse2]
-Calluses on my fingertips
-From songs nobody asked for
-The ceiling's low enough to touch
-I've been small before
+didn't grab my jacket
+didn't check the mirror
+door's already open, I can feel the street
+cold air doesn't ask you if you're sure
 
 [Bridge]
-My fingers keep going
-After the sound stops
-I can't tell if I'm playing
-Or just holding on
+street's quiet and my hands are empty
+I didn't plan past the door
+
+[Final Chorus]
+not this time
+not this time
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
