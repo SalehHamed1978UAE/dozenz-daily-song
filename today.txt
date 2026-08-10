@@ -1,34 +1,30 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Not This Time
+Already Through
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, minimal indie rock, post-punk economy, rhythmic precision, restrained but warm, not angular—tight because the emotion is tight, male lead vocal
+male vocalist, slowcore, sparse indie folk, intimate, minimalist, atmospheric, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-phone face-down on the table
-chair pushed back, I'm already standing
-you're still talking but I'm watching the door
-not the words — just the distance to it
+The streetlight's been out for weeks and I just noticed
+Jacket's zipped but I don't remember zipping it
+My hand's still warm from the door I closed behind me
 
 [Chorus]
-not this time
+Is this what it feels like
+Is this what it feels like
 
 [Verse2]
-didn't grab my jacket
-didn't check the mirror
-door's already open, I can feel the street
-cold air doesn't ask you if you're sure
+Dishes in the sink from Tuesday — I count them
+The fridge hums like it's been waiting for me
+Shoes off — one lands on its side — I leave it
 
 [Bridge]
-street's quiet and my hands are empty
-I didn't plan past the door
-
-[Final Chorus]
-not this time
-not this time
+I thought there'd be a sound
+A door — a click — something closing
+It was just my shoes on the stairs
 
 SETTINGS:
 - Custom mode: ON
