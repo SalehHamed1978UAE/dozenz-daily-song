@@ -1,30 +1,38 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Already Through
+Same Chair
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, slowcore, sparse indie folk, intimate, minimalist, atmospheric, male lead vocal
+male vocalist, driving indie rock with post-punk urgency, raw and close-mic'd, room sound audible — early Radiohead rhythmic tension meets Snail Mail guitar economy meets PJ Harvey's refusal to decorate, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-The streetlight's been out for weeks and I just noticed
-Jacket's zipped but I don't remember zipping it
-My hand's still warm from the door I closed behind me
+I can't stop moving
+streetlights counting down like they know
+passed the place we used to — doesn't matter
+my shoes sound like someone's following
 
 [Chorus]
-Is this what it feels like
-Is this what it feels like
+I stopped and you were sitting there
+same chair, same hands, same air
+I'm standing in the door like I'm the guest
 
 [Verse2]
-Dishes in the sink from Tuesday — I count them
-The fridge hums like it's been waiting for me
-Shoes off — one lands on its side — I leave it
+I can't stop moving
+same block, third time, I know the cracks
+the corner store guy stopped waving
+I think my hands forgot what pockets are for
 
 [Bridge]
-I thought there'd be a sound
-A door — a click — something closing
-It was just my shoes on the stairs
+(four bars — kick drum only, one hit per bar)
+(bar four, whispered:) same chair. same hands.
+(bar five — Telecaster sustains, snare hits beat three)
+
+[Final Chorus]
+I stopped and you were sitting there
+same chair, same hands, same air
+I'm sitting on the floor like I'm the guest
 
 SETTINGS:
 - Custom mode: ON
