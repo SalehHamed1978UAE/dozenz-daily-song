@@ -1,38 +1,39 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Same Chair
+Already Gone
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, driving indie rock with post-punk urgency, raw and close-mic'd, room sound audible — early Radiohead rhythmic tension meets Snail Mail guitar economy meets PJ Harvey's refusal to decorate, male lead vocal
+male vocalist, indie post-punk pop, dry, urgent, physical, kinetic — Bleachers' rawness meets early Killers' tension meets Alvvays' restraint, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-I can't stop moving
-streetlights counting down like they know
-passed the place we used to — doesn't matter
-my shoes sound like someone's following
+stood up so fast the chair's still spinning
+don't know where the keys went, don't need them
+shirt's untucked, one shoe's half on
+door's still closing — I'm already down the street
 
 [Chorus]
-I stopped and you were sitting there
-same chair, same hands, same air
-I'm standing in the door like I'm the guest
+I'm already gone
+I'm already gone
+I'm already gone
 
 [Verse2]
-I can't stop moving
-same block, third time, I know the cracks
-the corner store guy stopped waving
-I think my hands forgot what pockets are for
+air hits my arms before I know I'm outside
+concrete's still warm from yesterday
+hands just swing
+every step sounds louder than the last one
 
 [Bridge]
-(four bars — kick drum only, one hit per bar)
-(bar four, whispered:) same chair. same hands.
-(bar five — Telecaster sustains, snare hits beat three)
+didn't pick the direction
+didn't lock the door
+feet just — went
+and I followed
 
-[Final Chorus]
-I stopped and you were sitting there
-same chair, same hands, same air
-I'm sitting on the floor like I'm the guest
+[Outro]
+I'm already gone
+I'm already gone
+I'm already gone
 
 SETTINGS:
 - Custom mode: ON
