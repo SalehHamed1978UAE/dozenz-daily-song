@@ -1,45 +1,37 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-I'm Up
+Still Mine
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, driving indie rock, post-punk precision, restrained energy, Interpol meets early Killers but stripped back, male lead vocal
+male vocalist, indie rock, post-punk drive, anthemic but lean, controlled fury — Interpol's rhythmic precision meets The Killers' defiance, stripped down, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Feet on cold tile, one eye open
-Keys in my wrong hand, door still locked
-Coffee's not made but I'm already dressed
-Didn't plan this — body just said go
+Woke up standing, didn't plan it
+Hands are shaking but they're moving
+Every step sounds like a question
+But my feet don't wait for answers
 
 [Chorus]
-I'm up — okay — alright
-I'm up — I don't need the reason right
-I'm up — one foot then the other
-I'm moving before I remember why
+I'm not asking permission
+I'm not waiting for the sign
+You can count me out if you want to
+But I'm still here — I'm still mine
 
 [Verse2]
-Same shirt, same door, same street
-Sidewalk cold through my shoes
-Three blocks gone before I check my phone
-Didn't grab my jacket — don't need it
+Streetlight catches every third step
+I'm not running but I'm not stopping
+The question isn't where I'm going
+It's whether I believe I'm moving
 
 [Bridge]
-I'm not coming back
-(kick drum only, melody hangs)
-I'm not coming back
-(snare rimshot on 'back')
-
-[Final Chorus]
-I'm up — okay — alright
-I'm up — I don't need the reason right
-I'm up — one foot then the other
-I'm up — (breath, no words)
+Who's here when I stop fighting
+Who's here when the noise goes quiet
+Who's here —
 
 [Outro]
-One more — one more — one more
-(silence)
+*(hold 'mine', full band hits downbeat together, then one bar kick + snare, HARD STOP)*
 
 SETTINGS:
 - Custom mode: ON
