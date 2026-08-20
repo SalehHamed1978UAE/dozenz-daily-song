@@ -1,37 +1,39 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Still Mine
+I'm Up
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, indie rock, post-punk drive, anthemic but lean, controlled fury — Interpol's rhythmic precision meets The Killers' defiance, stripped down, male lead vocal
+male vocalist, post-punk indie rock, restrained intensity, hypnotic tension - The National meets Interpol meets Fontaines D.C., male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Woke up standing, didn't plan it
-Hands are shaking but they're moving
-Every step sounds like a question
-But my feet don't wait for answers
+feet on cold tile, one eye open
+hand on the counter, forgot what for
+same motion, no decision
+body moved before I knew
 
 [Chorus]
-I'm not asking permission
-I'm not waiting for the sign
-You can count me out if you want to
-But I'm still here — I'm still mine
+okay
+alright
+one more
 
 [Verse2]
-Streetlight catches every third step
-I'm not running but I'm not stopping
-The question isn't where I'm going
-It's whether I believe I'm moving
+same shirt, same door, same street
+corner store guy nods like he knows
+every step sounds the same
+but I'm still moving
 
 [Bridge]
-Who's here when I stop fighting
-Who's here when the noise goes quiet
-Who's here —
+I'm not coming back
+I'm not coming back
+I'm not coming back
+but I'm still moving
 
 [Outro]
-*(hold 'mine', full band hits downbeat together, then one bar kick + snare, HARD STOP)*
+okay
+alright
+I'm up
 
 SETTINGS:
 - Custom mode: ON
