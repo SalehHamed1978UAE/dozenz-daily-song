@@ -1,39 +1,36 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-I'm Up
+I Brought My Hands
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, post-punk indie rock, restrained intensity, hypnotic tension - The National meets Interpol meets Fontaines D.C., male lead vocal
+male vocalist, slowcore, intimate indie rock, minimal, unadorned - think Duster, Low, Bedhead, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-feet on cold tile, one eye open
-hand on the counter, forgot what for
-same motion, no decision
-body moved before I knew
+Hands on the strings but they're not moving
+Coffee's cold, been sitting here since four
+The amp hum's the only thing that's honest
+I showed up but I don't know what for
 
 [Chorus]
-okay
-alright
-one more
+I'm still here
+Hands still work
+Light's still on
+I'm still here
 
 [Verse2]
-same shirt, same door, same street
-corner store guy nods like he knows
-every step sounds the same
-but I'm still moving
+Tuning pegs I turned an hour ago
+Same four strings, same dead tone
+Fingers know the shapes but won't commit
+The only thing that's certain is I'm alone
 
 [Bridge]
-I'm not coming back
-I'm not coming back
-I'm not coming back
-but I'm still moving
+I brought my hands but I forgot what they're for
+I brought my hands but I forgot what they're for
 
 [Outro]
-okay
-alright
-I'm up
+30 seconds: Telecaster pickup hum only. Then hard cut to silence.
 
 SETTINGS:
 - Custom mode: ON
