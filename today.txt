@@ -1,36 +1,31 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-I Brought My Hands
+It's Quiet
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, slowcore, intimate indie rock, minimal, unadorned - think Duster, Low, Bedhead, male lead vocal
+male vocalist, indie pop-rock, clean and bright, tight production, Alvvays meets Phoenix, warm but not glossy, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Hands on the strings but they're not moving
-Coffee's cold, been sitting here since four
-The amp hum's the only thing that's honest
-I showed up but I don't know what for
+Keys back in my pocket, forgot I was holding them
+Didn't plan to smile but I'm smiling
 
 [Chorus]
-I'm still here
-Hands still work
-Light's still on
-I'm still here
+It's quiet
+It's quiet
 
 [Verse2]
-Tuning pegs I turned an hour ago
-Same four strings, same dead tone
-Fingers know the shapes but won't commit
-The only thing that's certain is I'm alone
+Three blocks gone and I didn't check the time
+Still moving, still quiet
 
 [Bridge]
-I brought my hands but I forgot what they're for
-I brought my hands but I forgot what they're for
+Still here
 
 [Outro]
-30 seconds: Telecaster pickup hum only. Then hard cut to silence.
+It's quiet
+It's quiet
+I'm here
 
 SETTINGS:
 - Custom mode: ON
