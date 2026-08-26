@@ -1,31 +1,40 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-It's Quiet
+I Forgot How
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, indie pop-rock, clean and bright, tight production, Alvvays meets Phoenix, warm but not glossy, male lead vocal
+male vocalist, post-punk adjacent indie rock, Wire meets Interpol meets early Bloc Party, tight, anxious, minimal, precision as anxiety, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Keys back in my pocket, forgot I was holding them
-Didn't plan to smile but I'm smiling
+Hands on the keys but they're not moving
+I forgot how
+Tuning pegs I turned an hour ago
+I forgot how
 
 [Chorus]
-It's quiet
-It's quiet
+I forgot how
+I forgot how
+I forgot how
+I forgot how
 
 [Verse2]
-Three blocks gone and I didn't check the time
-Still moving, still quiet
+Calluses on my fingertips
+I forgot how
+Brought my hands but I forgot what they're for
+I forgot how
 
 [Bridge]
-Still here
+Bars 1-4: Piano loop (Eb-D-Bb, missing C) + bass (Eb root) + kick on 1&3
+Bars 5-8: Snare drops completely, just piano/bass/kick
+Bars 9-10: Just kick drum, everything else silent
+Bars 11-12: Piano/bass return quietly, building back
 
 [Outro]
-It's quiet
-It's quiet
-I'm here
+I forgot how
+I forgot how
+I forgot how
 
 SETTINGS:
 - Custom mode: ON
