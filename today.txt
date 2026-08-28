@@ -1,44 +1,37 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-I Forgot How
+Empty Palm
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, post-punk adjacent indie rock, Wire meets Interpol meets early Bloc Party, tight, anxious, minimal, precision as anxiety, male lead vocal
+female vocalist, intimate indie folk, minimalist, confessional, stripped-down acoustic, female lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Hands on the keys but they're not moving
-I forgot how
-Tuning pegs I turned an hour ago
-I forgot how
+Still holding but there's nothing in my hand
+Don't remember when I opened it
+Your name sounds different when I say it to myself
+Like I'm practicing for when you're gone
 
 [Chorus]
-I forgot how
-I forgot how
-I forgot how
-I forgot how
+Still here
+Still here
 
 [Verse2]
-Calluses on my fingertips
-I forgot how
-Brought my hands but I forgot what they're for
-I forgot how
+Coffee cold on the counter from this morning
+Keys still in my coat pocket
+Meant to leave an hour ago
+But my hand's still on the door
 
 [Bridge]
-Bars 1-4: Piano loop (Eb-D-Bb, missing C) + bass (Eb root) + kick on 1&3
-Bars 5-8: Snare drops completely, just piano/bass/kick
-Bars 9-10: Just kick drum, everything else silent
-Bars 11-12: Piano/bass return quietly, building back
+I opened my hand
 
 [Outro]
-I forgot how
-I forgot how
-I forgot how
+(Em root + fifth together, full decay 10+ seconds)
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
