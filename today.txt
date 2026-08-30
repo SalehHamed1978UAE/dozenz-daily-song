@@ -1,37 +1,32 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Empty Palm
+Through
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-female vocalist, intimate indie folk, minimalist, confessional, stripped-down acoustic, female lead vocal
+male vocalist, driving indie rock, post-punk tension, defiant, aggressive but controlled, loud emotional weight, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Still holding but there's nothing in my hand
-Don't remember when I opened it
-Your name sounds different when I say it to myself
-Like I'm practicing for when you're gone
+Hands flat on the wall, palms burning
+Air hits my arms before I know I'm outside
+
+[Pre Chorus]
+Go — go — now
 
 [Chorus]
-Still here
-Still here
+I'm going through
 
 [Verse2]
-Coffee cold on the counter from this morning
-Keys still in my coat pocket
-Meant to leave an hour ago
-But my hand's still on the door
+Streetlight catches every third step
+Air hits my arms before I know I'm outside
 
 [Bridge]
-I opened my hand
-
-[Outro]
-(Em root + fifth together, full decay 10+ seconds)
+Didn't even feel it break
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
