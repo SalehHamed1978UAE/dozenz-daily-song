@@ -1,28 +1,28 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Through
+Already There
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, driving indie rock, post-punk tension, defiant, aggressive but controlled, loud emotional weight, male lead vocal
+male vocalist, intimate indie folk, bone-dry acoustic, conversational warmth, minimal arrangement, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Hands flat on the wall, palms burning
-Air hits my arms before I know I'm outside
-
-[Pre Chorus]
-Go — go — now
+Coffee still warm when you hand it to me
+You didn't ask, you just knew
 
 [Chorus]
-I'm going through
+I didn't have to ask
+You were already there
 
 [Verse2]
-Streetlight catches every third step
-Air hits my arms before I know I'm outside
+Your keys on the counter where mine used to be
+You didn't move them
 
-[Bridge]
-Didn't even feel it break
+[Final Chorus]
+I didn't have to ask
+You were already there
+And I was too
 
 SETTINGS:
 - Custom mode: ON
