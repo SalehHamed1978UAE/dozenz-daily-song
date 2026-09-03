@@ -1,28 +1,36 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Already There
+GO
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, intimate indie folk, bone-dry acoustic, conversational warmth, minimal arrangement, male lead vocal
+male vocalist, driving indie rock, post-punk rhythm section, garage rock guitar textures, urgent and physical, dry production, early Interpol meets Savages meets Fontaines D.C., male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Coffee still warm when you hand it to me
-You didn't ask, you just knew
+Phone face-down on the table
+Keys still in my hand
+Streetlight through the window
+Feet already moving
+
+[Pre Chorus]
+Mm-mm-mm-MMM (fourth note rushes early, lands on beat 4)
+Mm-mm-mm-MMM
+Mm-mm-mm-MMM — GO
 
 [Chorus]
-I didn't have to ask
-You were already there
+Go — go — go — now
 
 [Verse2]
-Your keys on the counter where mine used to be
-You didn't move them
+Air hits my arms before I know I'm outside
+Gravel under my shoes sounds different
+Three blocks gone, didn't check the time
+Streetlight catches every third step
 
-[Final Chorus]
-I didn't have to ask
-You were already there
-And I was too
+[Bridge]
+Body's moving
+Didn't plan this
+Already gone
 
 SETTINGS:
 - Custom mode: ON
