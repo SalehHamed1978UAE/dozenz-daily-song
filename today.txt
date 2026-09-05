@@ -1,36 +1,32 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-GO
+I Want
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, driving indie rock, post-punk rhythm section, garage rock guitar textures, urgent and physical, dry production, early Interpol meets Savages meets Fontaines D.C., male lead vocal
+male vocalist, post-punk influenced indie rock, raw emotional urgency, driving and relentless, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Phone face-down on the table
-Keys still in my hand
-Streetlight through the window
-Feet already moving
-
-[Pre Chorus]
-Mm-mm-mm-MMM (fourth note rushes early, lands on beat 4)
-Mm-mm-mm-MMM
-Mm-mm-mm-MMM — GO
+your jacket's still on the chair, three days, haven't touched it
+phone face-down where you left it, screen cracked, still charging
+coffee cup in the sink, lipstick print, cold water
+keys by the door like you're coming back
 
 [Chorus]
-Go — go — go — now
+I want — I want — I want — go
 
 [Verse2]
-Air hits my arms before I know I'm outside
-Gravel under my shoes sounds different
-Three blocks gone, didn't check the time
-Streetlight catches every third step
+hands flat on the counter, not holding anything
+streetlight through the window, three AM, still up
+breath fog on the glass where I'm standing too close
+your name in my mouth but I don't say it
 
 [Bridge]
-Body's moving
-Didn't plan this
-Already gone
+door's open
+
+[Outro]
+I want — I want — I want — (unsung 'go', guitar sustain only)
 
 SETTINGS:
 - Custom mode: ON
