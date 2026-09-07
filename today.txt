@@ -1,32 +1,28 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-I Want
+Nothing Playing
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, post-punk influenced indie rock, raw emotional urgency, driving and relentless, male lead vocal
+male vocalist, indie pop with post-punk restraint, clean melodic guitar-driven, intimate and spacious, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-your jacket's still on the chair, three days, haven't touched it
-phone face-down where you left it, screen cracked, still charging
-coffee cup in the sink, lipstick print, cold water
-keys by the door like you're coming back
-
-[Chorus]
-I want — I want — I want — go
+Headphones in, nothing playing
+The guy on the corner knows my face now
+Shadow getting shorter
+Coffee's still warm in my hand
 
 [Verse2]
-hands flat on the counter, not holding anything
-streetlight through the window, three AM, still up
-breath fog on the glass where I'm standing too close
-your name in my mouth but I don't say it
+Used to walk before the heat hit
+Saw a guy at the corner I didn't recognize
+Realized I don't walk mornings anymore
+Don't remember when I stopped
 
 [Bridge]
-door's open
+I wasn't trying to get anywhere
 
-[Outro]
-I want — I want — I want — (unsung 'go', guitar sustain only)
+Still walking
 
 SETTINGS:
 - Custom mode: ON
