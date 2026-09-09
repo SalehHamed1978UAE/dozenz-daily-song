@@ -1,28 +1,35 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Nothing Playing
+That's All
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, indie pop with post-punk restraint, clean melodic guitar-driven, intimate and spacious, male lead vocal
+male vocalist, minimalist indie folk with electronic texture, intimate, sparse, contemplative, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Headphones in, nothing playing
-The guy on the corner knows my face now
-Shadow getting shorter
-Coffee's still warm in my hand
+You keep asking
+like the answer's hiding
+like I'm holding something back
+I'm not
+
+[Chorus]
+You asked
+I heard
+
+that's all
 
 [Verse2]
-Used to walk before the heat hit
-Saw a guy at the corner I didn't recognize
-Realized I don't walk mornings anymore
-Don't remember when I stopped
+You're still here
+waiting for the crack
+the place I break
+and tell you everything
 
 [Bridge]
-I wasn't trying to get anywhere
-
-Still walking
+I could've
+didn't
+still could
+won't
 
 SETTINGS:
 - Custom mode: ON
