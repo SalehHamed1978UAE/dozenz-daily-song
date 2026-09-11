@@ -1,35 +1,31 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-That's All
+Go
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, minimalist indie folk with electronic texture, intimate, sparse, contemplative, male lead vocal
+male vocalist, post-punk indie rock, garage rawness, angular guitar, urgent and stripped-down, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-You keep asking
-like the answer's hiding
-like I'm holding something back
-I'm not
+Phone face-down on the table
+Streetlight catches every third step
 
 [Chorus]
-You asked
-I heard
-
-that's all
+Go
 
 [Verse2]
-You're still here
-waiting for the crack
-the place I break
-and tell you everything
+Air hits my arms before I know I'm outside
+Gravel under my shoes sounds different when you're not waiting
+
+[Chorus2]
+Go — go
 
 [Bridge]
-I could've
-didn't
-still could
-won't
+Didn't pick the direction
+
+[Final Chorus]
+Go — go — go — now
 
 SETTINGS:
 - Custom mode: ON
