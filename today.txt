@@ -1,35 +1,40 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Go
+Three Days
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, post-punk indie rock, garage rawness, angular guitar, urgent and stripped-down, male lead vocal
+female vocalist, intimate indie folk duet, conversational, unguarded, acoustic, minimal production, female lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Phone face-down on the table
-Streetlight catches every third step
+hands on the keys but I'm not playing
+three days and I finally hear it
+I knew when you said it
+just couldn't admit it
 
 [Chorus]
-Go
+how long does it take
+to say you were listening
+
+ yeah
 
 [Verse2]
-Air hits my arms before I know I'm outside
-Gravel under my shoes sounds different when you're not waiting
+three-day-old curry, still labeled
+you finally opened the container
+didn't say a word
+but I felt it
 
-[Chorus2]
-Go — go
+[Outro]
+how long does it take
+to say you were listening
 
-[Bridge]
-Didn't pick the direction
-
-[Final Chorus]
-Go — go — go — now
+ yeah
+ we're good
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
