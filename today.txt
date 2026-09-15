@@ -1,40 +1,36 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Three Days
+I Didn't Have to Ask
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-female vocalist, intimate indie folk duet, conversational, unguarded, acoustic, minimal production, female lead vocal
+male vocalist, intimate indie folk, warm lived-in production, conversational, emotional, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-hands on the keys but I'm not playing
-three days and I finally hear it
-I knew when you said it
-just couldn't admit it
+Your keys on the counter where mine used to be
+I stood there longer than I meant to
 
 [Chorus]
-how long does it take
-to say you were listening
-
- yeah
+I didn't have to ask
+I didn't have to ask
 
 [Verse2]
-three-day-old curry, still labeled
-you finally opened the container
-didn't say a word
-but I felt it
+You didn't ask if I was okay
+Just made space and let me sit in it
+
+[Bridge]
+(Wordless vocal melody: mm-mm-mm-MMM — fourth note rushes early on beat 4)
+(First repeat: both vocals unison)
+(Second repeat: harmony splits — Norah up, Rayan holds)
+(Third repeat: Rayan drops, Norah solo)
 
 [Outro]
-how long does it take
-to say you were listening
-
- yeah
- we're good
+I didn't see it move closer
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
