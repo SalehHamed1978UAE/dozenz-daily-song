@@ -1,32 +1,28 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-I Didn't Have to Ask
+I Brought My Hands
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, intimate indie folk, warm lived-in production, conversational, emotional, male lead vocal
+male vocalist, intimate indie folk with post-rock restraint, minimal arrangement, emotional vulnerability, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Your keys on the counter where mine used to be
-I stood there longer than I meant to
-
-[Chorus]
-I didn't have to ask
-I didn't have to ask
+Hands on the strings but they're not moving
+The chair creaks, the clock, your breath
+The strings buzz but I'm not pressing down
 
 [Verse2]
-You didn't ask if I was okay
-Just made space and let me sit in it
+Tuning pegs I turned an hour ago
+The room's the same, the light's the same
+Someone's in the other room
 
 [Bridge]
-(Wordless vocal melody: mm-mm-mm-MMM — fourth note rushes early on beat 4)
-(First repeat: both vocals unison)
-(Second repeat: harmony splits — Norah up, Rayan holds)
-(Third repeat: Rayan drops, Norah solo)
+I brought my hands but I forgot what they're for
 
 [Outro]
-I didn't see it move closer
+I'm still here
+I'm still here
 
 SETTINGS:
 - Custom mode: ON
