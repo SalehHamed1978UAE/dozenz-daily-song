@@ -1,32 +1,38 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-I Brought My Hands
+Up — Okay — Alright
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, intimate indie folk with post-rock restraint, minimal arrangement, emotional vulnerability, male lead vocal
+female vocalist, indie rock with post-punk rhythm section, rough edges intentional, The National's tightness meets early Killers' physicality, female lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Hands on the strings but they're not moving
-The chair creaks, the clock, your breath
-The strings buzz but I'm not pressing down
+Feet on cold tile, one eye open
+Same shirt hanging on the chair from yesterday
+Coffee cold but I'm already moving
+Didn't plan this
+
+[Chorus]
+Up — okay — alright
+Up — okay — alright
 
 [Verse2]
-Tuning pegs I turned an hour ago
-The room's the same, the light's the same
-Someone's in the other room
+Same shirt, same door, same street, same key
+Air hits my arms before I know I'm outside
+Three blocks gone, didn't check the time
+Streetlight catches every third step
 
 [Bridge]
-I brought my hands but I forgot what they're for
+One more — one more — one more
 
 [Outro]
-I'm still here
-I'm still here
+Up — okay — alright
+Up — okay — alright
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
