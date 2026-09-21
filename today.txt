@@ -1,38 +1,31 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Up — Okay — Alright
+Three Blocks
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-female vocalist, indie rock with post-punk rhythm section, rough edges intentional, The National's tightness meets early Killers' physicality, female lead vocal
+male vocalist, indie pop with post-punk guitar textures, playful, bright but not manic, lazy groove that stumbles into joy, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Feet on cold tile, one eye open
-Same shirt hanging on the chair from yesterday
-Coffee cold but I'm already moving
-Didn't plan this
-
-[Chorus]
-Up — okay — alright
-Up — okay — alright
+Shawarma guy knows my order
+Didn't have to say a word
+Three blocks gone
+Still humming
+Don't know when I started
 
 [Verse2]
-Same shirt, same door, same street, same key
-Air hits my arms before I know I'm outside
-Three blocks gone, didn't check the time
-Streetlight catches every third step
+Streetlight caught my reflection
+Didn't look away
+Phone's in my pocket
+Been there twenty minutes
 
 [Bridge]
-One more — one more — one more
-
-[Outro]
-Up — okay — alright
-Up — okay — alright
+I wasn't trying to get here
 
 SETTINGS:
 - Custom mode: ON
 - Instrumental: OFF   (this song HAS vocals)
-- VOCAL GENDER: FEMALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
+- VOCAL GENDER: MALE   <-- set Suno's Vocal Gender control to this (NOT Auto)
 - Model: newest available
 ============================================================
