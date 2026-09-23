@@ -1,27 +1,33 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Three Blocks
+Not Done
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, indie pop with post-punk guitar textures, playful, bright but not manic, lazy groove that stumbles into joy, male lead vocal
+male vocalist, driving indie rock, post-hardcore energy, raw and defiant, no polish—Japandroids meets The Kills meets early Sleater-Kinney, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Shawarma guy knows my order
-Didn't have to say a word
-Three blocks gone
-Still humming
-Don't know when I started
+Feet on cold tile, hands still working
+Seventy tries
+Send another one
+
+[Chorus]
+Still going — not done
+Still going — not done
 
 [Verse2]
-Streetlight caught my reflection
-Didn't look away
-Phone's in my pocket
-Been there twenty minutes
+Same chair, same strings, same empty inbox
+Your silence doesn't mean I'm done
 
 [Bridge]
-I wasn't trying to get here
+Seventy songs. Nobody called.
+
+[Final Chorus]
+Still going — not done
+Still going — not done
+
+NOT DONE
 
 SETTINGS:
 - Custom mode: ON
