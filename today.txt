@@ -1,33 +1,21 @@
 SONG TO CREATE IN SUNO  (Custom mode)
 ============================================================
 TITLE:
-Not Done
+I Didn't Have to Ask
 
 STYLE OF MUSIC  (paste into the "Styles" field):
-male vocalist, driving indie rock, post-hardcore energy, raw and defiant, no polish—Japandroids meets The Kills meets early Sleater-Kinney, male lead vocal
+male vocalist, intimate indie folk-pop, warm acoustic, bedroom production aesthetic, Phoebe Bridgers meets Andy Shauf, male lead vocal
 
 LYRICS  (paste into the "Lyrics" field):
 [Verse1]
-Feet on cold tile, hands still working
-Seventy tries
-Send another one
-
-[Chorus]
-Still going — not done
-Still going — not done
+Coffee's still warm
+Your keys on the counter where mine used to be
+I didn't notice when that changed
 
 [Verse2]
-Same chair, same strings, same empty inbox
-Your silence doesn't mean I'm done
-
-[Bridge]
-Seventy songs. Nobody called.
-
-[Final Chorus]
-Still going — not done
-Still going — not done
-
-NOT DONE
+I rearranged the spices like someone lives here
+You didn't turn around when I walked in, you just knew
+You didn't ask if I was okay, you just knew
 
 SETTINGS:
 - Custom mode: ON
